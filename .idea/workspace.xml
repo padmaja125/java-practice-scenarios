@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="default with static &amp; non-static access modifier">
-      <change afterPath="$PROJECT_DIR$/src/Gradma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mother.java" afterDir="false" />
+    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="Multilevel Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branch_Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeadOffice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Branch.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.EB_Reading.executor": "Run",
     "Application.Kid.executor": "Run",
@@ -50,16 +51,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Kid">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+  <component name="RunManager" selected="Application.Branch">
+    <configuration name="Branch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Branch" />
       <module name="java-practice-scenarious--all" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EB_Reading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EB_Reading" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="java-practice-scenarious--all" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Branch" />
         <item itemvalue="Application.Kid" />
         <item itemvalue="Application.Teacher" />
         <item itemvalue="Application.Theatre" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.EB_Reading" />
       </list>
     </recent_temporary>
   </component>
@@ -136,13 +137,22 @@
       <option name="project" value="LOCAL" />
       <updated>1719261944386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Multilevel Inheritance">
+      <option name="closed" value="true" />
+      <created>1719262885490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719262885490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit with 3 solved solutions" />
     <MESSAGE value="commit with 2 solved solutions" />
     <MESSAGE value="default with static &amp; non-static access modifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="default with static &amp; non-static access modifier" />
+    <MESSAGE value="Multilevel Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multilevel Inheritance" />
   </component>
 </project>
