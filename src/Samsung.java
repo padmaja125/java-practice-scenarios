@@ -5,7 +5,7 @@
  – int call(int seconds)
  – void sendMessage()
  – void receiveCall()
- – Add non abstract method void browse()
+ – Add non-abstract method void browse()
  – print ‘SmartPhone browsing’ inside browse() method definition
  – Have constructor as below.
  public SmartPhone()
@@ -16,11 +16,11 @@
  – Add the below abstract methods
  – void verifyFingerPrint()
  – void providePattern()
- – Add non abstract method void browse()
+ – Add non-abstract method void browse()
  – print ‘Factory Demo browsing’ inside browse() method definition
  – Add variable boolean isOriginalPiece and assign ‘false’ as value.
  – Add static variable int price and set value as 0.
- 3) Create class called ‘Samsung’ with main method as sub class of FactoryDemo.
+ 3) Create class called ‘Samsung’ with main method as subclass of FactoryDemo.
  – Add unimplemented methods
  – Add static variable int price and set value as 5000.
  – Create instance for Samsung class called sam
@@ -38,7 +38,7 @@ public class Samsung extends FactoryDemo{
     public static void main(String[] args) {
         Samsung sam = new Samsung();
         sam.browse();
-        System.out.println(sam.price);
+        System.out.println(price);
 
     }
     @Override

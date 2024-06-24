@@ -12,5 +12,5 @@ public abstract class SmartPhone {
     {
         System.out.println("Smartphone under development");
     }
-};
+}
 
