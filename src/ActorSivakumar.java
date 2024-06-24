@@ -38,7 +38,7 @@ public class ActorSivakumar implements Actor{
         as.dance();
         as.sing();
         as.speaking();
-        System.out.println("Sivakumar Address is " + as.address);
+        System.out.println("Sivakumar Address is " + address);
         System.out.println("*** actorsivakumar to actor ***");
         Actor ac = new ActorSivakumar();
         ac.act();
@@ -49,11 +49,12 @@ public class ActorSivakumar implements Actor{
     }
 
     public ActorSivakumar(int age, String car) {
+        System.out.println(age + "of man having " +car);
     }
 
     void speaking(){
         System.out.println("speaking");
-    };
+    }
     @Override
     public void act() {
         System.out.println("act");
