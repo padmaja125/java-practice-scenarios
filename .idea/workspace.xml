@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="Multilevel Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Branch_Plan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeadOffice.java" afterDir="false" />
+    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="abstraction with Multilevel Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ActorSivakumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQLTrainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trainer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +37,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ActorSivakumar.executor": "Run",
     "Application.Branch.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.EB_Reading.executor": "Run",
     "Application.Kid.executor": "Run",
+    "Application.SQLTrainer.executor": "Run",
     "Application.Teacher.executor": "Run",
     "Application.Theatre.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -51,16 +54,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Branch">
-    <configuration name="Branch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Branch" />
+  <component name="RunManager" selected="Application.ActorSivakumar">
+    <configuration name="ActorSivakumar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ActorSivakumar" />
       <module name="java-practice-scenarious--all" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+    <configuration name="Branch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Branch" />
       <module name="java-practice-scenarious--all" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SQLTrainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SQLTrainer" />
+      <module name="java-practice-scenarious--all" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Teacher" />
       <module name="java-practice-scenarious--all" />
@@ -80,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Theatre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Theatre" />
-      <module name="java-practice-scenarious--all" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActorSivakumar" />
+        <item itemvalue="Application.SQLTrainer" />
         <item itemvalue="Application.Branch" />
         <item itemvalue="Application.Kid" />
         <item itemvalue="Application.Teacher" />
-        <item itemvalue="Application.Theatre" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719262885490</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="abstraction with Multilevel Inheritance">
+      <option name="closed" value="true" />
+      <created>1719266898069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719266898069</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,6 +164,7 @@
     <MESSAGE value="commit with 2 solved solutions" />
     <MESSAGE value="default with static &amp; non-static access modifier" />
     <MESSAGE value="Multilevel Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multilevel Inheritance" />
+    <MESSAGE value="abstraction with Multilevel Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstraction with Multilevel Inheritance" />
   </component>
 </project>
