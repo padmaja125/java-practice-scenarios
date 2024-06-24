@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarious.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-practice-scenarious--all.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EB_Reading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Theatre.java" afterDir="false" />
+    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="Initial commit with 3 solved solutions">
+      <change afterPath="$PROJECT_DIR$/src/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Theatre.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +36,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Calculator.executor": "Run",
     "Application.EB_Reading.executor": "Run",
+    "Application.Teacher.executor": "Run",
     "Application.Theatre.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,7 +49,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.Teacher">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="java-practice-scenarious--all" />
@@ -68,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Teacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teacher" />
+      <module name="java-practice-scenarious--all" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Theatre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Theatre" />
       <module name="java-practice-scenarious--all" />
@@ -77,9 +80,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teacher" />
+        <item itemvalue="Application.Theatre" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.EB_Reading" />
-        <item itemvalue="Application.Theatre" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1719255303839</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit with 3 solved solutions">
+      <option name="closed" value="true" />
+      <created>1719256763816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719256763816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit with 3 solved solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit with 3 solved solutions" />
   </component>
 </project>
