@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="commit with 2 solved solutions">
-      <change afterPath="$PROJECT_DIR$/src/bank/chennai/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/creditcard/Account_Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/madurai/Account_Holder_madurai.java" afterDir="false" />
+    <list default="true" id="fa79f9b3-3265-497f-8c7a-fea75d8aeb4a" name="Changes" comment="default with static &amp; non-static access modifier">
+      <change afterPath="$PROJECT_DIR$/src/Gradma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mother.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   "keyToString": {
     "Application.Calculator.executor": "Run",
     "Application.EB_Reading.executor": "Run",
+    "Application.Kid.executor": "Run",
     "Application.Teacher.executor": "Run",
     "Application.Theatre.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -49,7 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Teacher">
+  <component name="RunManager" selected="Application.Kid">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="java-practice-scenarious--all" />
@@ -59,6 +60,13 @@
     </configuration>
     <configuration name="EB_Reading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EB_Reading" />
+      <module name="java-practice-scenarious--all" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kid" />
       <module name="java-practice-scenarious--all" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kid" />
         <item itemvalue="Application.Teacher" />
         <item itemvalue="Application.Theatre" />
         <item itemvalue="Application.Calculator" />
@@ -119,12 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719258859387</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="default with static &amp; non-static access modifier">
+      <option name="closed" value="true" />
+      <created>1719261944386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719261944386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit with 3 solved solutions" />
     <MESSAGE value="commit with 2 solved solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit with 2 solved solutions" />
+    <MESSAGE value="default with static &amp; non-static access modifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="default with static &amp; non-static access modifier" />
   </component>
 </project>
