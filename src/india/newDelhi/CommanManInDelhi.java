@@ -24,8 +24,6 @@
  – Add unimplemented methods
  – Access all the methods and observe the difference. **/
 package india.newDelhi;
-
-import india.newDelhi.TrafficRulesDelhi;
 import tamilnadu.chennai.TrafficRulesChennai;
 
 public class CommanManInDelhi implements TrafficRulesDelhi, TrafficRulesChennai {
